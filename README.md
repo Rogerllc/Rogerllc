@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Oi, meu nome é Roger
+Sou estudante de BTI na UFERSA.
 <!--
 **Rogerllc/Rogerllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
