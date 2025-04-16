@@ -5,8 +5,7 @@ Tenho conhecimento basico na linguagem Python
 e pretendo criar experiencia em outras linguagens da programação.
 
 
-![image](https://github.com/user-attachments/assets/f5f8dfc4-1005-4239-91af-6173b927d17c)
-
+![image](https://github.com/user-attachments/assets/2974b804-3d68-4e90-a1ed-91b7f64ba795)
 
 <!--
 **Rogerllc/Rogerllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
