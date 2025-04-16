@@ -1,7 +1,7 @@
 # Olá, meu nome é Roger
 Atualmente estudante de BTI na UFERSA.
 
-Tenho conhecimento basico na linguagem Python 
+Tenho conhecimento basico na linguagem Python,
 e pretendo criar experiencia em outras linguagens da programação.
 
 
