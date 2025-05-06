@@ -1,5 +1,5 @@
 # Olá, meu nome é Roger
-Atualmente estudante de BTI na UFERSA.
+Atualmente estudante de BTI da UFERSA.
 
 
 
