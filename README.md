@@ -1,16 +1,6 @@
-<p align="left">Olá, meu nome é Roger<br>Atualmente estudante de Tecnologia da Informação da UFERSA.</p>
+<p align="left">Olá, meu nome é Roger Leite da costa<br>Atualmente estudante de Tecnologia da Informação da UFERSA.</p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rogerllc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rogerllc.Rogerllc&"  />
-</div>
 
 ###
 <div align="left">
@@ -33,6 +23,17 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rogerllc.Rogerllc&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rogerllc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <!--
 **Rogerllc/Rogerllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
