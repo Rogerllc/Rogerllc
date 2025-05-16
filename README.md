@@ -47,6 +47,3 @@ Atualmente estudante de Tecnologia da Informação pela UFERSA.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="onda animada verde oceano" />
-</p>
