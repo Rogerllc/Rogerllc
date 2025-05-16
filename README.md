@@ -14,9 +14,14 @@ Atualmente estudante de Tecnologia da Informação pela UFERSA.
 
 ## 📈 Estatísticas do GitHub
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rogerllc&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerllc&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogerllc&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerllc&layout=compact&theme=transparent&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=transparent&hide_border=true" />
 </p>
 
 ---
