@@ -1,49 +1,55 @@
 <h1 align="center">Olá! Meu nome é Roger Leite da costa.
 Atualmente estudante de Tecnologia da Informação pela UFERSA.
 
+---
+
+## 🛠️ Tecnologias que estudo
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+C+%2B+Python;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
 </p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogerllc&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerllc&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔥 Atividade
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Atividade recente
+## 📫 Contato
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🌐 Contato
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/." target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rogerlleite.rn@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🐍💻 Final animado com estilo Python & C
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=flat" alt="Rogerllc" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Python+%2B+C+%3D+Poder+Absoluto;Obrigado+por+visitar!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
