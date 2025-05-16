@@ -42,14 +42,4 @@ Atualmente estudante de Tecnologia da Informação pela UFERSA.
 
 ---
 
-## 🐍💻 Final animado com estilo Python & C
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" />
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Python+%2B+C+%3D+Poder+Absoluto;Obrigado+por+visitar!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
