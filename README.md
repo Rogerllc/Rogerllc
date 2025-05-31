@@ -1,4 +1,11 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Roger+Leite+da+Costa!;Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Explorando+Python+%26+C..." alt="Texto animado" />
+  </a>
+</div>
+
+
+<div align="center">
   <h1>Olá! Meu nome é Roger Leite da Costa.</h1>
   <p><em>Atualmente estudante de Tecnologia da Informação pela UFERSA.</em></p>
   </div>
