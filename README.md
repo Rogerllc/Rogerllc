@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=01010010%2001001111%2001000111%2001000101%2001010010%3BROGER" alt="Texto animado: ROGER em binário e texto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=01010010%2001001111%2001000111%2001000101%2001010010%3B" alt="Texto animado: ROGER em binário e texto" />
   </a>
 </div>
 
