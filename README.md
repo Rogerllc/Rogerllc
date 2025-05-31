@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=01010010%2001001111%2001000111%2001000101%2001010010%3B" alt="Texto animado: ROGER em binário e texto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=01010010%2001001111%2001000111%2001000101%2001010010" alt="Texto animado: ROGER em binário e texto" />
   </a>
 </div>
-
 
 <div align="center">
   <h1>Olá! Meu nome é Roger Leite da Costa.</h1>
   <p><em>Atualmente estudante de Tecnologia da Informação pela UFERSA.</em></p>
-  </div>
+</div>
 
 ---
 
@@ -36,8 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=tokyonight" alt="Streak de contribuições de Rogerllc com tema Tokyonight"/>
-
-  </div>
+</div>
 
 ---
 
