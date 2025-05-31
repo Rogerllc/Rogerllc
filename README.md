@@ -1,14 +1,44 @@
-<h1 align="center">Olá! Meu nome é Roger Leite da costa.Atualmente estudante de Tecnologia da Informação pela UFERSA.
-  
-Tecnologias que estudo<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /></p>
-  
+<div align="center">
 
-  
-  Estatísticas do GitHub<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rogerllc&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180em" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerllc&layout=compact&theme=transparent&hide_border=true" height="180em" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=transparent&hide_border=true" /></p>
-  
+  <h1>Olá! Eu sou Roger Leite ✨</h1>
+  <p><em>[Atualmente estudante de Tecnologia da informação na Universidade Federal Rural do Semi-arido - UFERSA -]</em></p>
 
- Atividade<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=tokyonight" /></p>
+  <div>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+    </a>
+  </div>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 📊 Linguagens Mais Utilizadas
+
+  <p><em>(Esta imagem é gerada dinamicamente e pode levar alguns segundos para carregar)</em></p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Rogerllc]&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000" 
+    alt="Linguagens Mais Utilizadas por [Roger Leite]"
+    style="max-width: 100%;"
+  />
+  </div>
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/[]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;&nbsp;
+    <a href="mailto:[rogerlleite.rn@hotmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    &nbsp;&nbsp;
+    </p>
   
-  
-  
- Contato<p align="center"><a href="https://linkedin.com/in/." target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:rogerlleite.rn@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" /></a></p>---
+  <samp>
+    Buscando sempre a próxima linha de código perfeita.
+  </samp>
+</div>
