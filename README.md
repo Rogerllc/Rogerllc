@@ -17,16 +17,6 @@
 ---
 
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rogerllc&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180em" alt="Estatísticas do GitHub de Rogerllc"/>
-  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerllc&layout=compact&theme=transparent&hide_border=true" height="180em" alt="Linguagens mais usadas por Rogerllc"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=transparent&hide_border=true" alt="Streak de contribuições de Rogerllc"/>
-</div>
-
----
 
 ## 🔥 Atividade Recente
 
