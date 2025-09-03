@@ -1,40 +1,33 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-  <h1>Olá! Meu nome é Roger Leite da Costa.</h1>
-  <p><em>Atualmente estudante de Tecnologia da Informação pela UFERSA.</em></p>
-</div>
+<p align="left"> 
+ Olá, Meu nome é Roger Leite da costa.
+ Dicente do curso Tecnologia da informação no campus UFERSA.
+</p>
 
----
+<p align="left">
+  Linguagens que utilizo: 
+[![My Skills](https://skillicons.dev/icons?i=c,py&theme=dark)](https://skillicons.dev)
+</p>
 
-## 🛠️ Tecnologias que estudo
+<p align="left">
+   Ferramentas que utilizo:
+ [![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode&theme=dark)](https://skillicons.dev)
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" />
-</div>
+<p align="left">
+  Contato:
+</p>
 
----
-
-
-
-## 🔥 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogerllc&theme=tokyonight" alt="Streak de contribuições de Rogerllc com tema Tokyonight"/>
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-  <a href="https://linkedin.com/in/[SEU_USUARIO_LINKEDIN_AQUI]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp; <a href="mailto:rogerlleite.rn@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
